@@ -13,13 +13,13 @@ Make sure you have the following installed on your system:
 1. Clone this repository:
 
    ```shell
-   git clone https://github.com/your-username/qr-code-generator.git
+   git clone https://github.com/mukeshkc123/qr_code_generator.git
    ```
 
 2. Navigate to the project directory:
 
    ```shell
-   cd qr-code-generator
+   cd qr_code_generator
    ```
 
 3. Install the dependencies:
